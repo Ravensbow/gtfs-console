@@ -1,0 +1,60 @@
+agency_id,route_id,route_short_name,route_long_name,route_type,route_color,route_text_color
+0,A100,100,Pl. Kościeleckich — Myślęcinek,3,007700,FFFFFF
+0,A102,102,Pl. Kościeleckich — Exploseum,3,007700,FFFFFF
+0,A31N,31N,Łoskoń — Dworzec Leśne,3,000000,FFFFFF
+0,A32N,32N,Tatrzańskie — Błonie,3,000000,FFFFFF
+0,A33N,33N,Piaski — Błonie,3,000000,FFFFFF
+0,A34N,34N,Plac Kościeleckich — Smukała,3,000000,FFFFFF
+0,A35N,35N,Plac Kościeleckich — Rekinowa,3,000000,FFFFFF
+0,A36N,36N,Łęgnowo — Lisia,3,000000,FFFFFF
+0,A37N,37N,Zbożowy Rynek — Port Lotniczy,3,000000,FFFFFF
+0,A51,51,Plac Kościeleckich — Czyżkówko,3,0044BB,FFFFFF
+0,A52,52,Błonie — Dworzec Leśne,3,0044BB,FFFFFF
+0,A53,53,Dworzec Błonie — Kapuścicka,3,0044BB,FFFFFF
+0,A54,54,Błonie — Piaski,3,0044BB,FFFFFF
+0,A55,55,Skorupki — Morska,3,0044BB,FFFFFF
+0,A56,56,Belma — Glinki BFM,3,0044BB,FFFFFF
+0,A57,57,Błonie — Dworzec Główny,3,0044BB,FFFFFF
+0,A58,58,Plac Kościeleckich — Smukała,3,0044BB,FFFFFF
+0,A59,59,Błonie — Kapuściska,3,0044BB,FFFFFF
+0,A60,60,Błonie — Morska,3,0044BB,FFFFFF
+0,A61,61,Rekinowa — Mokra,3,0044BB,FFFFFF
+0,A62,62,Garbary — Belma,3,0044BB,FFFFFF
+0,A64,64,Barwna — Przemysłowa,3,0044BB,FFFFFF
+0,A65,65,Nad Wisłą — Dworzec Leśne,3,0044BB,FFFFFF
+0,A66,66,R. Jagiellonów — Wąbrzeska — R. Jagiellonów,3,0044BB,FFFFFF
+0,A67,67,Rycerska — Łęczycka,3,0044BB,FFFFFF
+0,A68,68,Dworzec Leśne — Glinki BFM,3,0044BB,FFFFFF
+0,A69,69,Tatrzańskie — Błonie,3,0044BB,FFFFFF
+0,A71,71,Rekinowa — Morska,3,0044BB,FFFFFF
+0,A73,73,Kapuściska — Jasiniecka / Pod Skarpą,3,0044BB,FFFFFF
+0,A74,74,Wyścigowa — Tatrzańskie,3,0044BB,FFFFFF
+0,A75,75,Przylesie — Ostromecko,3,0044BB,FFFFFF
+0,A76,76,Rondo Toruńskie — Łęgnowo,3,0044BB,FFFFFF
+0,A77,77,Niklowa — Morska,3,0044BB,FFFFFF
+0,A79,79,Rycerska — Glinki,3,0044BB,FFFFFF
+0,A80,80,Port Lotniczy — Dworzec Główny,3,0044BB,FFFFFF
+0,A81,81,Tatrzańskie — Ikea,3,0044BB,FFFFFF
+0,A82,82,Tatrzańskie — Matki Teresy z Kalkuty/Rydygiera,3,0044BB,FFFFFF
+0,A83,83,Tatrzańskie — Czyżkówko,3,0044BB,FFFFFF
+0,A86,86,R. Jagiellonów — Glinki — R. Jagiellonów,3,0044BB,FFFFFF
+0,A89,89,Tatrzańskie — Błonie,3,0044BB,FFFFFF
+0,A91,91,Błonie — Przyłęki/Wodna,3,0044BB,FFFFFF
+0,A92,92,Błonie — Murowaniec,3,0044BB,FFFFFF
+0,A93,93,Dworzec Leśne — Niwy,3,0044BB,FFFFFF
+0,A94,94,Dworzec Leśne — Żołędowo,3,0044BB,FFFFFF
+0,A95,95,Tatrzańskie — Strzelce Górne — Tatrzańskie,3,0044BB,FFFFFF
+0,A96,96,Błonie — Trzciniec — Przyłęki,3,0044BB,FFFFFF
+0,A99,99,Pl. Kościeleckich — Nowa Wieś Wielka,3,0044BB,FFFFFF
+0,T0,0,Las Gdański — Bałtycka,0,873B21,FFFFFF
+0,T1,1,Las Gdański — Wilczak,0,00C2FF,000000
+0,T10,10,Niepodległości — Las Gdański,0,545454,FFFFFF
+0,T2,2,Babia Wieś — Las Gdański,0,000691,FFFFFF
+0,T3,3,Łoskoń — Wilczak,0,FF0000,FFFFFF
+0,T4,4,Bielawy — Babia Wieś,0,52C71C,000000
+0,T5,5,Łoskoń — Rycerska,0,FFE600,000000
+0,T6,6,Łęgnowo — Bielawy,0,0A750F,FFFFFF
+0,T7,7,Łoskoń — Babia Wieś,0,FF8A00,000000
+0,T8,8,Rycerska — Zajezdnia Tramwajowa,0,703E02,FFFFFF
+0,ZAT7,ZaT7,Kapuściska — Most Kazimierza Wielkiego,3,BB0000,FFFFFF
+0,ZAT8,ZaT8,Kapuściska — R. Toruńskie,3,BB0000,FFFFFF

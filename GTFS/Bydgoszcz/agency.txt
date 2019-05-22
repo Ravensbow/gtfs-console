@@ -1,0 +1,2 @@
+agency_id,agency_name,agency_url,agency_timezone,agency_lang
+0,ZDMiKP Bydgoszcz,"http://www.zdmikp.bydgoszcz.pl/index.php/pl/transport",Europe/Warsaw,pl
